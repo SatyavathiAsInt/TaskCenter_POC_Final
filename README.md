@@ -32,6 +32,10 @@ Candidate Todo tasks :
 <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/3354e741-13bb-4cad-ae2f-7a4483576ad8" />
 <img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/79d47632-0512-49a4-8a9d-9a35969f601e" />
 
+Reference used for principal propagation : 
+SAP Help document : https://help.sap.com/docs/connectivity/sap-btp-connectivity-cf/user-propagation-between-cloud-foundry-applications
+
+
 
 
 
